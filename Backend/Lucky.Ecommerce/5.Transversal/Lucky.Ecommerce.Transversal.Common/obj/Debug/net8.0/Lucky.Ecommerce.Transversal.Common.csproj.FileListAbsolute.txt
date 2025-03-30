@@ -1,0 +1,11 @@
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Common\bin\Debug\net8.0\Lucky.Ecommerce.Transversal.Common.deps.json
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Common\bin\Debug\net8.0\Lucky.Ecommerce.Transversal.Common.dll
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Common\bin\Debug\net8.0\Lucky.Ecommerce.Transversal.Common.pdb
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Common\obj\Debug\net8.0\Lucky.Ecommerce.Transversal.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Common\obj\Debug\net8.0\Lucky.Ecommerce.Transversal.Common.AssemblyInfoInputs.cache
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Common\obj\Debug\net8.0\Lucky.Ecommerce.Transversal.Common.AssemblyInfo.cs
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Common\obj\Debug\net8.0\Lucky.Ecommerce.Transversal.Common.csproj.CoreCompileInputs.cache
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Common\obj\Debug\net8.0\Lucky.Ecommerce.Transversal.Common.dll
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Common\obj\Debug\net8.0\refint\Lucky.Ecommerce.Transversal.Common.dll
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Common\obj\Debug\net8.0\Lucky.Ecommerce.Transversal.Common.pdb
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Common\obj\Debug\net8.0\ref\Lucky.Ecommerce.Transversal.Common.dll

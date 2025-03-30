@@ -1,0 +1,11 @@
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\1.Dominio\Lucky.Ecommerce.Domain.Entity\bin\Debug\net8.0\Lucky.Ecommerce.Domain.Entity.deps.json
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\1.Dominio\Lucky.Ecommerce.Domain.Entity\bin\Debug\net8.0\Lucky.Ecommerce.Domain.Entity.dll
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\1.Dominio\Lucky.Ecommerce.Domain.Entity\bin\Debug\net8.0\Lucky.Ecommerce.Domain.Entity.pdb
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\1.Dominio\Lucky.Ecommerce.Domain.Entity\obj\Debug\net8.0\Lucky.Ecommerce.Domain.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\1.Dominio\Lucky.Ecommerce.Domain.Entity\obj\Debug\net8.0\Lucky.Ecommerce.Domain.Entity.AssemblyInfoInputs.cache
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\1.Dominio\Lucky.Ecommerce.Domain.Entity\obj\Debug\net8.0\Lucky.Ecommerce.Domain.Entity.AssemblyInfo.cs
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\1.Dominio\Lucky.Ecommerce.Domain.Entity\obj\Debug\net8.0\Lucky.Ecommerce.Domain.Entity.csproj.CoreCompileInputs.cache
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\1.Dominio\Lucky.Ecommerce.Domain.Entity\obj\Debug\net8.0\Lucky.Ecommerce.Domain.Entity.dll
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\1.Dominio\Lucky.Ecommerce.Domain.Entity\obj\Debug\net8.0\refint\Lucky.Ecommerce.Domain.Entity.dll
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\1.Dominio\Lucky.Ecommerce.Domain.Entity\obj\Debug\net8.0\Lucky.Ecommerce.Domain.Entity.pdb
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\1.Dominio\Lucky.Ecommerce.Domain.Entity\obj\Debug\net8.0\ref\Lucky.Ecommerce.Domain.Entity.dll

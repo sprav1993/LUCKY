@@ -1,0 +1,11 @@
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\2.Aplicacion\Lucky.Ecommerce.Application.Dto\bin\Debug\net8.0\Lucky.Ecommerce.Application.Dto.deps.json
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\2.Aplicacion\Lucky.Ecommerce.Application.Dto\bin\Debug\net8.0\Lucky.Ecommerce.Application.Dto.dll
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\2.Aplicacion\Lucky.Ecommerce.Application.Dto\bin\Debug\net8.0\Lucky.Ecommerce.Application.Dto.pdb
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\2.Aplicacion\Lucky.Ecommerce.Application.Dto\obj\Debug\net8.0\Lucky.Ecommerce.Application.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\2.Aplicacion\Lucky.Ecommerce.Application.Dto\obj\Debug\net8.0\Lucky.Ecommerce.Application.Dto.AssemblyInfoInputs.cache
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\2.Aplicacion\Lucky.Ecommerce.Application.Dto\obj\Debug\net8.0\Lucky.Ecommerce.Application.Dto.AssemblyInfo.cs
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\2.Aplicacion\Lucky.Ecommerce.Application.Dto\obj\Debug\net8.0\Lucky.Ecommerce.Application.Dto.csproj.CoreCompileInputs.cache
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\2.Aplicacion\Lucky.Ecommerce.Application.Dto\obj\Debug\net8.0\Lucky.Ecommerce.Application.Dto.dll
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\2.Aplicacion\Lucky.Ecommerce.Application.Dto\obj\Debug\net8.0\refint\Lucky.Ecommerce.Application.Dto.dll
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\2.Aplicacion\Lucky.Ecommerce.Application.Dto\obj\Debug\net8.0\Lucky.Ecommerce.Application.Dto.pdb
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\2.Aplicacion\Lucky.Ecommerce.Application.Dto\obj\Debug\net8.0\ref\Lucky.Ecommerce.Application.Dto.dll

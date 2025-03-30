@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01386559-32BF-456F-BD40-3D7C58C35890}|4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Lucky.Ecommerce.Services.WebApi.csproj|d:\\proyectos empresas\\lucky_\\lucky.ecommerce\\4.servicio\\lucky.ecommerce.services.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01386559-32BF-456F-BD40-3D7C58C35890}|4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Lucky.Ecommerce.Services.WebApi.csproj|solutionrelative:4.servicio\\lucky.ecommerce.services.webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01386559-32BF-456F-BD40-3D7C58C35890}|4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Lucky.Ecommerce.Services.WebApi.csproj|d:\\proyectos empresas\\lucky_\\lucky.ecommerce\\4.servicio\\lucky.ecommerce.services.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01386559-32BF-456F-BD40-3D7C58C35890}|4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Lucky.Ecommerce.Services.WebApi.csproj|solutionrelative:4.servicio\\lucky.ecommerce.services.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DC2F73-A250-4FF4-B7A0-CA9B3E613F22}|1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Lucky.Ecommerce.Domain.Entity.csproj|d:\\proyectos empresas\\lucky_\\lucky.ecommerce\\1.dominio\\lucky.ecommerce.domain.entity\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DC2F73-A250-4FF4-B7A0-CA9B3E613F22}|1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Lucky.Ecommerce.Domain.Entity.csproj|solutionrelative:1.dominio\\lucky.ecommerce.domain.entity\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44DC2F73-A250-4FF4-B7A0-CA9B3E613F22}|1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Lucky.Ecommerce.Domain.Entity.csproj|d:\\proyectos empresas\\lucky_\\lucky.ecommerce\\1.dominio\\lucky.ecommerce.domain.entity\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44DC2F73-A250-4FF4-B7A0-CA9B3E613F22}|1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Lucky.Ecommerce.Domain.Entity.csproj|solutionrelative:1.dominio\\lucky.ecommerce.domain.entity\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B34965D-B7CC-477E-8BAC-B8977AFCAC3B}|3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Repository\\Lucky.Ecommerce.Infrastructure.Repository.csproj|d:\\proyectos empresas\\lucky_\\lucky.ecommerce\\3.infraestructura\\lucky.ecommerce.infrastructure.repository\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B34965D-B7CC-477E-8BAC-B8977AFCAC3B}|3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Repository\\Lucky.Ecommerce.Infrastructure.Repository.csproj|solutionrelative:3.infraestructura\\lucky.ecommerce.infrastructure.repository\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFE799D-536A-4D50-BDDD-6930610CA075}|2.Aplicacion\\Lucky.Ecommerce.Application.Main\\Lucky.Ecommerce.Application.Main.csproj|d:\\proyectos empresas\\lucky_\\lucky.ecommerce\\2.aplicacion\\lucky.ecommerce.application.main\\productsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFE799D-536A-4D50-BDDD-6930610CA075}|2.Aplicacion\\Lucky.Ecommerce.Application.Main\\Lucky.Ecommerce.Application.Main.csproj|solutionrelative:2.aplicacion\\lucky.ecommerce.application.main\\productsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87E43A25-52A5-4F10-AA75-EC847DCCC3B5}|1.Dominio\\Lucky.Ecommerce.Domain.Core\\Lucky.Ecommerce.Domain.Core.csproj|d:\\proyectos empresas\\lucky_\\lucky.ecommerce\\1.dominio\\lucky.ecommerce.domain.core\\productsdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87E43A25-52A5-4F10-AA75-EC847DCCC3B5}|1.Dominio\\Lucky.Ecommerce.Domain.Core\\Lucky.Ecommerce.Domain.Core.csproj|solutionrelative:1.dominio\\lucky.ecommerce.domain.core\\productsdomain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A4313B2-B059-4B28-BD89-C9717C8E5304}|2.Aplicacion\\Lucky.Ecommerce.Application.Interface\\Lucky.Ecommerce.Application.Interface.csproj|d:\\proyectos empresas\\lucky_\\lucky.ecommerce\\2.aplicacion\\lucky.ecommerce.application.interface\\iproductsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A4313B2-B059-4B28-BD89-C9717C8E5304}|2.Aplicacion\\Lucky.Ecommerce.Application.Interface\\Lucky.Ecommerce.Application.Interface.csproj|solutionrelative:2.aplicacion\\lucky.ecommerce.application.interface\\iproductsapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01386559-32BF-456F-BD40-3D7C58C35890}|4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Lucky.Ecommerce.Services.WebApi.csproj|d:\\proyectos empresas\\lucky_\\lucky.ecommerce\\4.servicio\\lucky.ecommerce.services.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01386559-32BF-456F-BD40-3D7C58C35890}|4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Lucky.Ecommerce.Services.WebApi.csproj|solutionrelative:4.servicio\\lucky.ecommerce.services.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01386559-32BF-456F-BD40-3D7C58C35890}|4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Lucky.Ecommerce.Services.WebApi.csproj|d:\\proyectos empresas\\lucky_\\lucky.ecommerce\\4.servicio\\lucky.ecommerce.services.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{01386559-32BF-456F-BD40-3D7C58C35890}|4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Lucky.Ecommerce.Services.WebApi.csproj|solutionrelative:4.servicio\\lucky.ecommerce.services.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82E96370-6671-4C93-B3F3-C0652F7B7BCB}|3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Interface\\Lucky.Ecommerce.Infrastructure.Interface.csproj|d:\\proyectos empresas\\lucky_\\lucky.ecommerce\\3.infraestructura\\lucky.ecommerce.infrastructure.interface\\iproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82E96370-6671-4C93-B3F3-C0652F7B7BCB}|3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Interface\\Lucky.Ecommerce.Infrastructure.Interface.csproj|solutionrelative:3.infraestructura\\lucky.ecommerce.infrastructure.interface\\iproductsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B34965D-B7CC-477E-8BAC-B8977AFCAC3B}|3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Repository\\Lucky.Ecommerce.Infrastructure.Repository.csproj|d:\\proyectos empresas\\lucky_\\lucky.ecommerce\\3.infraestructura\\lucky.ecommerce.infrastructure.repository\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B34965D-B7CC-477E-8BAC-B8977AFCAC3B}|3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Repository\\Lucky.Ecommerce.Infrastructure.Repository.csproj|solutionrelative:3.infraestructura\\lucky.ecommerce.infrastructure.repository\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductsApplication.cs",
+              "DocumentMoniker": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\2.Aplicacion\\Lucky.Ecommerce.Application.Interface\\IProductsApplication.cs",
+              "RelativeDocumentMoniker": "2.Aplicacion\\Lucky.Ecommerce.Application.Interface\\IProductsApplication.cs",
+              "ToolTip": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\2.Aplicacion\\Lucky.Ecommerce.Application.Interface\\IProductsApplication.cs",
+              "RelativeToolTip": "2.Aplicacion\\Lucky.Ecommerce.Application.Interface\\IProductsApplication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:58:21.508Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsApplication.cs",
+              "DocumentMoniker": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\2.Aplicacion\\Lucky.Ecommerce.Application.Main\\ProductsApplication.cs",
+              "RelativeDocumentMoniker": "2.Aplicacion\\Lucky.Ecommerce.Application.Main\\ProductsApplication.cs",
+              "ToolTip": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\2.Aplicacion\\Lucky.Ecommerce.Application.Main\\ProductsApplication.cs",
+              "RelativeToolTip": "2.Aplicacion\\Lucky.Ecommerce.Application.Main\\ProductsApplication.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAcwHYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T11:15:36.647Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Users.cs",
+              "RelativeDocumentMoniker": "1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Users.cs",
+              "ToolTip": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Users.cs",
+              "RelativeToolTip": "1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:45:44.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Products.cs",
+              "RelativeDocumentMoniker": "1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Products.cs",
+              "ToolTip": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Products.cs",
+              "RelativeToolTip": "1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:45:08.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Controllers\\UsersController.cs*",
+              "RelativeToolTip": "4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Controllers\\UsersController.cs*",
+              "ViewState": "AgIAADgAAAAAAAAAAAAkwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:39:58.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductsRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Interface\\IProductsRepository.cs",
+              "RelativeDocumentMoniker": "3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Interface\\IProductsRepository.cs",
+              "ToolTip": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Interface\\IProductsRepository.cs",
+              "RelativeToolTip": "3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Interface\\IProductsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:32:30.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductsDomain.cs",
+              "DocumentMoniker": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Core\\ProductsDomain.cs",
+              "RelativeDocumentMoniker": "1.Dominio\\Lucky.Ecommerce.Domain.Core\\ProductsDomain.cs",
+              "ToolTip": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Core\\ProductsDomain.cs",
+              "RelativeToolTip": "1.Dominio\\Lucky.Ecommerce.Domain.Core\\ProductsDomain.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T21:31:12.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAWwCkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T20:55:14.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Repository\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Repository\\UsersRepository.cs",
+              "ToolTip": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Repository\\UsersRepository.cs",
+              "RelativeToolTip": "3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Repository\\UsersRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T11:00:55.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Repository\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Repository\\ProductsRepository.cs",
+              "ToolTip": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Repository\\ProductsRepository.cs",
+              "RelativeToolTip": "3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Repository\\ProductsRepository.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwD4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T11:01:34.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Program.cs",
+              "ToolTip": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Program.cs",
+              "RelativeToolTip": "4.Servicio\\Lucky.Ecommerce.Services.WebApi\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T10:41:55.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\4.Servicio\\Lucky.Ecommerce.Services.WebApi\\appsettings.json",
+              "RelativeDocumentMoniker": "4.Servicio\\Lucky.Ecommerce.Services.WebApi\\appsettings.json",
+              "ToolTip": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\4.Servicio\\Lucky.Ecommerce.Services.WebApi\\appsettings.json",
+              "RelativeToolTip": "4.Servicio\\Lucky.Ecommerce.Services.WebApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T10:31:43.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

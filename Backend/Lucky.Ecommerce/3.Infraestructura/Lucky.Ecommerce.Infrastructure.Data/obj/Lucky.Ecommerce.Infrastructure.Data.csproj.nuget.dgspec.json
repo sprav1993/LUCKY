@@ -1,0 +1,411 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Data\\Lucky.Ecommerce.Infrastructure.Data.csproj": {}
+  },
+  "projects": {
+    "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Lucky.Ecommerce.Domain.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Lucky.Ecommerce.Domain.Entity.csproj",
+        "projectName": "Lucky.Ecommerce.Domain.Entity",
+        "projectPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Lucky.Ecommerce.Domain.Entity.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Interface\\Lucky.Ecommerce.Domain.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Interface\\Lucky.Ecommerce.Domain.Interface.csproj",
+        "projectName": "Lucky.Ecommerce.Domain.Interface",
+        "projectPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Interface\\Lucky.Ecommerce.Domain.Interface.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Lucky.Ecommerce.Domain.Entity.csproj": {
+                "projectPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Lucky.Ecommerce.Domain.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\2.Aplicacion\\Lucky.Ecommerce.Application.Dto\\Lucky.Ecommerce.Application.Dto.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\2.Aplicacion\\Lucky.Ecommerce.Application.Dto\\Lucky.Ecommerce.Application.Dto.csproj",
+        "projectName": "Lucky.Ecommerce.Application.Dto",
+        "projectPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\2.Aplicacion\\Lucky.Ecommerce.Application.Dto\\Lucky.Ecommerce.Application.Dto.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\2.Aplicacion\\Lucky.Ecommerce.Application.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\2.Aplicacion\\Lucky.Ecommerce.Application.Interface\\Lucky.Ecommerce.Application.Interface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\2.Aplicacion\\Lucky.Ecommerce.Application.Interface\\Lucky.Ecommerce.Application.Interface.csproj",
+        "projectName": "Lucky.Ecommerce.Application.Interface",
+        "projectPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\2.Aplicacion\\Lucky.Ecommerce.Application.Interface\\Lucky.Ecommerce.Application.Interface.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\2.Aplicacion\\Lucky.Ecommerce.Application.Interface\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\2.Aplicacion\\Lucky.Ecommerce.Application.Dto\\Lucky.Ecommerce.Application.Dto.csproj": {
+                "projectPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\2.Aplicacion\\Lucky.Ecommerce.Application.Dto\\Lucky.Ecommerce.Application.Dto.csproj"
+              },
+              "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\5.Transversal\\Lucky.Ecommerce.Transversal.Common\\Lucky.Ecommerce.Transversal.Common.csproj": {
+                "projectPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\5.Transversal\\Lucky.Ecommerce.Transversal.Common\\Lucky.Ecommerce.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Data\\Lucky.Ecommerce.Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Data\\Lucky.Ecommerce.Infrastructure.Data.csproj",
+        "projectName": "Lucky.Ecommerce.Infrastructure.Data",
+        "projectPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Data\\Lucky.Ecommerce.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\3.Infraestructura\\Lucky.Ecommerce.Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Lucky.Ecommerce.Domain.Entity.csproj": {
+                "projectPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Entity\\Lucky.Ecommerce.Domain.Entity.csproj"
+              },
+              "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Interface\\Lucky.Ecommerce.Domain.Interface.csproj": {
+                "projectPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\1.Dominio\\Lucky.Ecommerce.Domain.Interface\\Lucky.Ecommerce.Domain.Interface.csproj"
+              },
+              "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\2.Aplicacion\\Lucky.Ecommerce.Application.Dto\\Lucky.Ecommerce.Application.Dto.csproj": {
+                "projectPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\2.Aplicacion\\Lucky.Ecommerce.Application.Dto\\Lucky.Ecommerce.Application.Dto.csproj"
+              },
+              "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\2.Aplicacion\\Lucky.Ecommerce.Application.Interface\\Lucky.Ecommerce.Application.Interface.csproj": {
+                "projectPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\2.Aplicacion\\Lucky.Ecommerce.Application.Interface\\Lucky.Ecommerce.Application.Interface.csproj"
+              },
+              "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\5.Transversal\\Lucky.Ecommerce.Transversal.Common\\Lucky.Ecommerce.Transversal.Common.csproj": {
+                "projectPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\5.Transversal\\Lucky.Ecommerce.Transversal.Common\\Lucky.Ecommerce.Transversal.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\5.Transversal\\Lucky.Ecommerce.Transversal.Common\\Lucky.Ecommerce.Transversal.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\5.Transversal\\Lucky.Ecommerce.Transversal.Common\\Lucky.Ecommerce.Transversal.Common.csproj",
+        "projectName": "Lucky.Ecommerce.Transversal.Common",
+        "projectPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\5.Transversal\\Lucky.Ecommerce.Transversal.Common\\Lucky.Ecommerce.Transversal.Common.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyectos Empresas\\LUCKY_\\Lucky.Ecommerce\\5.Transversal\\Lucky.Ecommerce.Transversal.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

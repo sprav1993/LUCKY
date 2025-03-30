@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cJ8UTnUb4E6TNkCKTWYE+qGoFUy0g7mlXb6CNxT42z0=",
+  "Source": "Lucky.Ecommerce.Services.WebApi",
+  "BasePath": "_content/Lucky.Ecommerce.Services.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

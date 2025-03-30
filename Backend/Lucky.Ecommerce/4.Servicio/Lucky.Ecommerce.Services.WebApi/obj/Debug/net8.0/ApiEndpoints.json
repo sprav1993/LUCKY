@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "Lucky.Ecommerce.Services.WebApi.Controllers.ProductsController",
+    "Method": "DeleteAsync",
+    "RelativePath": "api/Products/Delete/async/{productId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lucky.Ecommerce.Services.WebApi.Controllers.ProductsController",
+    "Method": "GetAsync",
+    "RelativePath": "api/Products/Get/async/{productId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lucky.Ecommerce.Services.WebApi.Controllers.ProductsController",
+    "Method": "GetAllAsync",
+    "RelativePath": "api/Products/GetAll/async",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lucky.Ecommerce.Services.WebApi.Controllers.ProductsController",
+    "Method": "InsertAsync",
+    "RelativePath": "api/Products/Insert/async",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productsDto",
+        "Type": "Lucky.Ecommerce.Application.Dto.ProductsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lucky.Ecommerce.Services.WebApi.Controllers.ProductsController",
+    "Method": "UpdateAsync",
+    "RelativePath": "api/Products/Update/async",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "productsDto",
+        "Type": "Lucky.Ecommerce.Application.Dto.ProductsDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Lucky.Ecommerce.Services.WebApi.Controllers.UsersController",
+    "Method": "Authenticate",
+    "RelativePath": "api/Users/Authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "usersDto",
+        "Type": "Lucky.Ecommerce.Application.Dto.UsersDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

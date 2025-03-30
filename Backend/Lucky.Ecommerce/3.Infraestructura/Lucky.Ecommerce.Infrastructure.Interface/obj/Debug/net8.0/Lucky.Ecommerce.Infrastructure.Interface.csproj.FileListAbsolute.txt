@@ -1,0 +1,15 @@
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\3.Infraestructura\Lucky.Ecommerce.Infrastructure.Interface\bin\Debug\net8.0\Lucky.Ecommerce.Infrastructure.Interface.deps.json
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\3.Infraestructura\Lucky.Ecommerce.Infrastructure.Interface\bin\Debug\net8.0\Lucky.Ecommerce.Infrastructure.Interface.dll
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\3.Infraestructura\Lucky.Ecommerce.Infrastructure.Interface\bin\Debug\net8.0\Lucky.Ecommerce.Infrastructure.Interface.pdb
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\3.Infraestructura\Lucky.Ecommerce.Infrastructure.Interface\bin\Debug\net8.0\Lucky.Ecommerce.Domain.Entity.dll
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\3.Infraestructura\Lucky.Ecommerce.Infrastructure.Interface\bin\Debug\net8.0\Lucky.Ecommerce.Domain.Entity.pdb
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\3.Infraestructura\Lucky.Ecommerce.Infrastructure.Interface\obj\Debug\net8.0\Lucky.Ecommerce.Infrastructure.Interface.csproj.AssemblyReference.cache
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\3.Infraestructura\Lucky.Ecommerce.Infrastructure.Interface\obj\Debug\net8.0\Lucky.Ecommerce.Infrastructure.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\3.Infraestructura\Lucky.Ecommerce.Infrastructure.Interface\obj\Debug\net8.0\Lucky.Ecommerce.Infrastructure.Interface.AssemblyInfoInputs.cache
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\3.Infraestructura\Lucky.Ecommerce.Infrastructure.Interface\obj\Debug\net8.0\Lucky.Ecommerce.Infrastructure.Interface.AssemblyInfo.cs
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\3.Infraestructura\Lucky.Ecommerce.Infrastructure.Interface\obj\Debug\net8.0\Lucky.Ecommerce.Infrastructure.Interface.csproj.CoreCompileInputs.cache
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\3.Infraestructura\Lucky.Ecommerce.Infrastructure.Interface\obj\Debug\net8.0\Lucky.Ec.1F9FAC34.Up2Date
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\3.Infraestructura\Lucky.Ecommerce.Infrastructure.Interface\obj\Debug\net8.0\Lucky.Ecommerce.Infrastructure.Interface.dll
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\3.Infraestructura\Lucky.Ecommerce.Infrastructure.Interface\obj\Debug\net8.0\refint\Lucky.Ecommerce.Infrastructure.Interface.dll
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\3.Infraestructura\Lucky.Ecommerce.Infrastructure.Interface\obj\Debug\net8.0\Lucky.Ecommerce.Infrastructure.Interface.pdb
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\3.Infraestructura\Lucky.Ecommerce.Infrastructure.Interface\obj\Debug\net8.0\ref\Lucky.Ecommerce.Infrastructure.Interface.dll

@@ -1,0 +1,17 @@
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Mapper\bin\Debug\net8.0\Lucky.Ecommerce.Transversal.Mapper.deps.json
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Mapper\bin\Debug\net8.0\Lucky.Ecommerce.Transversal.Mapper.dll
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Mapper\bin\Debug\net8.0\Lucky.Ecommerce.Transversal.Mapper.pdb
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Mapper\bin\Debug\net8.0\Lucky.Ecommerce.Application.Dto.dll
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Mapper\bin\Debug\net8.0\Lucky.Ecommerce.Domain.Entity.dll
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Mapper\bin\Debug\net8.0\Lucky.Ecommerce.Domain.Entity.pdb
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Mapper\bin\Debug\net8.0\Lucky.Ecommerce.Application.Dto.pdb
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Mapper\obj\Debug\net8.0\Lucky.Ecommerce.Transversal.Mapper.csproj.AssemblyReference.cache
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Mapper\obj\Debug\net8.0\Lucky.Ecommerce.Transversal.Mapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Mapper\obj\Debug\net8.0\Lucky.Ecommerce.Transversal.Mapper.AssemblyInfoInputs.cache
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Mapper\obj\Debug\net8.0\Lucky.Ecommerce.Transversal.Mapper.AssemblyInfo.cs
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Mapper\obj\Debug\net8.0\Lucky.Ecommerce.Transversal.Mapper.csproj.CoreCompileInputs.cache
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Mapper\obj\Debug\net8.0\Lucky.Ec.44987046.Up2Date
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Mapper\obj\Debug\net8.0\Lucky.Ecommerce.Transversal.Mapper.dll
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Mapper\obj\Debug\net8.0\refint\Lucky.Ecommerce.Transversal.Mapper.dll
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Mapper\obj\Debug\net8.0\Lucky.Ecommerce.Transversal.Mapper.pdb
+D:\Proyectos Empresas\LUCKY_\Lucky.Ecommerce\5.Transversal\Lucky.Ecommerce.Transversal.Mapper\obj\Debug\net8.0\ref\Lucky.Ecommerce.Transversal.Mapper.dll
